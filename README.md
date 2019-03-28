@@ -4,6 +4,6 @@ D3 Choropleth Map developed for FreeCodeCamp data visualization track.
 
 Live example can be found here at: 
 
-`https://fendermaniac.github.io/d3-choropleth-map/`
+[US Rate of Education by County](https://fendermaniac.github.io/d3-choropleth-map/)
 
  
